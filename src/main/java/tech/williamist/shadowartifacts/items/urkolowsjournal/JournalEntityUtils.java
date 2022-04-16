@@ -2,7 +2,6 @@ package tech.williamist.shadowartifacts.items.urkolowsjournal;
 
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;
-import tech.williamist.shadowartifacts.ShadowArtifacts;
 
 import java.util.Random;
 import java.util.Set;
