@@ -1,4 +1,4 @@
-package tech.williamist.shadowartifacts.items.urkolowsjournal;
+package tech.williamist.shadowartifacts.artifacts.urkolowsjournal;
 
 import net.minecraft.world.item.Item;
 import net.minecraftforge.common.MinecraftForge;

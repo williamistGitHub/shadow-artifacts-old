@@ -1,7 +1,10 @@
-package tech.williamist.shadowartifacts.items.urkolowsjournal;
+package tech.williamist.shadowartifacts.artifacts.urkolowsjournal;
 
+import net.minecraft.network.chat.Component;
+import net.minecraft.network.chat.TranslatableComponent;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;
+import tech.williamist.shadowartifacts.aspects.emblems.EmblemType;
 
 import java.util.Random;
 import java.util.Set;
@@ -92,6 +95,10 @@ public final class JournalEntityUtils {
             EntityType.PLAYER,
             EntityType.FISHING_BOBBER
     );
+
+    public static TranslatableComponent getEntityDescriptionFromEmblemType(EmblemType emblemType) {
+        return new TranslatableComponent("shadowartifacts.emblems." + emblemType.toString().toLowerCase() + ".description");
+    }
 
     public static EmblemType getEmblemTypeFromEntityAndForm(Entity entity, int form) {
         EntityType type = entity.getType();

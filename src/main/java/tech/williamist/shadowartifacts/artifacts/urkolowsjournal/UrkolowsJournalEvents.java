@@ -1,9 +1,10 @@
-package tech.williamist.shadowartifacts.items.urkolowsjournal;
+package tech.williamist.shadowartifacts.artifacts.urkolowsjournal;
 
 import net.minecraft.ChatFormatting;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraftforge.event.entity.player.AttackEntityEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
+import tech.williamist.shadowartifacts.aspects.emblems.EmblemType;
 import tech.williamist.shadowartifacts.setup.RegistryHandler;
 import tech.williamist.shadowartifacts.util.MessageUtils;
 
@@ -23,6 +24,7 @@ public class UrkolowsJournalEvents {
             if (mobEmblem != null && JournalEntityUtils.isSuccessfulHit(event.getTarget().getType())) {
                 event.getTarget().hurt(DamageSource.GENERIC, (float) JournalEntityUtils.getDamageFromEntityType(event.getTarget().getType()));
                 event.getPlayer().getCooldowns().addCooldown(RegistryHandler.URKOLOWS_JOURNAL.get(), 20 * 9); // TODO: stop hardcoding things for multiple forms
+
                 /*MessageUtils.sendClientMessage(event.getPlayer(),
                         "Hurt a '" +
                                 event.getTarget().getType() +

@@ -8,7 +8,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import tech.williamist.shadowartifacts.ShadowArtifacts;
-import tech.williamist.shadowartifacts.items.urkolowsjournal.UrkolowsJournalItem;
+import tech.williamist.shadowartifacts.artifacts.urkolowsjournal.UrkolowsJournalItem;
 
 public class RegistryHandler {
 

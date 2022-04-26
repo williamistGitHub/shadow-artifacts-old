@@ -10,7 +10,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.jetbrains.annotations.NotNull;
-import tech.williamist.shadowartifacts.emlem.EmblemEvents;
+import tech.williamist.shadowartifacts.aspects.AspectsInventoryButtonManager;
 import tech.williamist.shadowartifacts.setup.RegistryHandler;
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -36,7 +36,7 @@ public class ShadowArtifacts {
 
         RegistryHandler.init();
 
-        MinecraftForge.EVENT_BUS.register(EmblemEvents.class);
+        MinecraftForge.EVENT_BUS.register(AspectsInventoryButtonManager.class);
     }
 
     private void setup(final FMLCommonSetupEvent event) { }

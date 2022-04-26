@@ -1,5 +1,134 @@
 {
   "item.shadowartifacts.urkolows_journal": "Urkolow's Journal",
 
+  "ui.shadowartifacts.aspectsButton": "Aspects",
+
+  "ui.shadowartifacts.emblemsTab": "Emblems",
+
+  "shadowartifacts.emblems.fright_emblem": "Emblem of Fright",
+  "shadowartifacts.emblems.fright_emblem.description": "Obtained by using Urkolow's Journal on a spider.",
+  "shadowartifacts.emblems.fright_emblem.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
+
+  "shadowartifacts.emblems.torture_emblem": "Emblem of Torture",
+  "shadowartifacts.emblems.torture_emblem.description": "Obtained by using Urkolow's Journal on a Panda",
+  "shadowartifacts.emblems.torture_emblem.description2": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
+
+  "shadowartifacts.emblems.betrayal_emblem": "Emblem of Betrayal",
+  "shadowartifacts.emblems.betrayal_emblem.description": "Obtained by using Urkolow's Journal on a Wolf or Any Passive Mob",
+  "shadowartifacts.emblems.betrayal_emblem.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
+
+  "shadowartifacts.emblems.dominance_emblem": "Emblem of Dominance",
+  "shadowartifacts.emblems.dominance_emblem.description": "Obtained by using Urkolow's Journal on a Llama or Trader Llama",
+  "shadowartifacts.emblems.dominance_emblem.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
+
+  "shadowartifacts.emblems.rebirth_emblem": "Emblem of Rebirth",
+  "shadowartifacts.emblems.rebirth_emblem.description": "Obtained by using Urkolow's Journal on a Zombie",
+  "shadowartifacts.emblems.rebirth_emblem.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
+
+  "shadowartifacts.emblems.screams_emblem": "Emblem of Screams",
+  "shadowartifacts.emblems.screams_emblem.description": "Obtained by using Urkolow's Journal on a Skeleton",
+  "shadowartifacts.emblems.screams_emblem.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
+
+  "shadowartifacts.emblems.sacrifice_emblem": "Emblem of Sacrifice",
+  "shadowartifacts.emblems.sacrifice_emblem.description": "Obtained by using Urkolow's Journal on a Bee",
+  "shadowartifacts.emblems.sacrifice_emblem.description2": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
+
+  "shadowartifacts.emblems.cruelty_emblem": "Emblem of Cruelty",
+  "shadowartifacts.emblems.cruelty_emblem.description": "Obtained by using Urkolow's Journal on a Dolphin",
+  "shadowartifacts.emblems.cruelty_emblem.description2": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
+
+  "shadowartifacts.emblems.shadows_emblem": "Emblem of Shadows",
+  "shadowartifacts.emblems.shadows_emblem.description": "Obtained by using Urkolow's Journal on an Enderman",
+  "shadowartifacts.emblems.shadows_emblem.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
+
+  "shadowartifacts.emblems.raging_emblem": "Emblem of Raging",
+  "shadowartifacts.emblems.raging_emblem.description": "Obtained by using Urkolow's Journal on a Piglin or a Hoglin",
+  "shadowartifacts.emblems.raging_emblem.description2": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
+
+  "shadowartifacts.emblems.collapse_emblem": "Emblem of Collapse",
+  "shadowartifacts.emblems.collapse_emblem.description": "Obtained by using Urkolow's Journal on an Iron Golem, Very Low Success Rate",
+  "shadowartifacts.emblems.collapse_emblem.description2": "Urkolow's Journal must be upgraded to the Undying Pact, Soulstorm Pact or better to obtain this emblem.",
+
+  "shadowartifacts.emblems.viability_emblem": "Emblem of Viability",
+  "shadowartifacts.emblems.viability_emblem.description": "Obtained by using Urkolow's Journal on a Polar Bear, Low Success Rate",
+  "shadowartifacts.emblems.viability_emblem.description2": "Urkolow's Journal must be upgraded to the Undying Pact, Soulstorm Pact or better to obtain this emblem.",
+
+  "shadowartifacts.emblems.flames_emblem": "Emblem of Flames",
+
+  "shadowartifacts.emblems.peril_emblem": "Emblem of Peril",
+
+  "shadowartifacts.emblems.anxiety_emblem": "Emblem of Anxiety",
+
+  "shadowartifacts.emblems.looming_fate_emblem": "Emblem of Looming Fate",
+
+  "shadowartifacts.emblems.omnipresence_emblem": "Emblem of Omnipresence",
+
+  "shadowartifacts.emblems.swarms_emblem": "Emblem of Swarms",
+
+  "shadowartifacts.emblems.nightmares_emblem": "Emblem of Nightmares",
+
+  "shadowartifacts.emblems.observance_emblem": "Emblem of Observance",
+
+  "shadowartifacts.emblems.wandering_emblem": "Emblem of Wandering",
+
+  "shadowartifacts.emblems.despise_emblem": "Emblem of Despise",
+
+  "shadowartifacts.emblems.bloodlust_emblem": "Emblem of Bloodlust",
+
+  "shadowartifacts.emblems.destruction_emblem": "Emblem of Destruction",
+
+  "shadowartifacts.emblems.cowardice_emblem": "Emblem of Cowardice",
+
+  "shadowartifacts.emblems.absorption_emblem": "Emblem of Absorption",
+
+  "shadowartifacts.emblems.summoning_emblem": "Emblem of Summoning",
+
+  "shadowartifacts.emblems.isolation_emblem": "Emblem of Isolation",
+
+  "shadowartifacts.emblems.curses_emblem": "Emblem of Curses",
+
+  "shadowartifacts.emblems.death_emblem": "Emblem of Death",
+
+  "shadowartifacts.emblems.chaos_emblem": "Emblem of Chaos",
+
+  "shadowartifacts.emblems.obliteration_emblem": "Emblem of Obliteration",
+
+  "shadowartifacts.emblems.manipulation_emblem": "Emblem of Manipulation",
+
+  "shadowartifacts.emblems.paranoia_emblem": "Emblem of Paranoia",
+
+  "shadowartifacts.emblems.disaster_emblem": "Emblem of Disaster",
+
+  "shadowartifacts.emblems.disorder_emblem": "Emblem of Disorder",
+
+  "shadowartifacts.emblems.corruption_emblem": "Emblem of Corruption",
+
+  "shadowartifacts.emblems.unknowing_emblem": "Emblem of Unknowing",
+
+  "shadowartifacts.emblems.desire_emblem": "Emblem of Desire",
+
+  "shadowartifacts.emblems.primitive_future_emblem": "Emblem of Primitive Future",
+
+  "shadowartifacts.emblems.treachery_emblem": "Emblem of Treachery",
+
+  "shadowartifacts.emblems.desperation_emblem": "Emblem of Desperation",
+
+  "shadowartifacts.emblems.wrath_emblem": "Emblem of Wrath",
+
+  "shadowartifacts.emblems.greed_emblem": "Emblem of Greed",
+
+  "shadowartifacts.emblems.pride_emblem": "Emblem of Pride",
+
+  "shadowartifacts.emblems.envy_emblem": "Emblem of Envy",
+
+  "shadowartifacts.emblems.lust_emblem": "Emblem of Lust",
+
+  "shadowartifacts.emblems.gluttony_emblem": "Emblem of Gluttony",
+
+  "shadowartifacts.emblems.sloth_emblem": "Emblem of Sloth",
+
+  "shadowartifacts.emblems.sins_emblem": "Emblem of Sins",
+
+
   "itemGroup.shadowArtifactsTab": "Shadow Artifacts"
 }
