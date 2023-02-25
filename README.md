@@ -1,3 +1,8 @@
+# Note
+This repository is outdated and now archived. An updated version of the mod is being rewritten in fabric for minecraft 1.19.3, and can be found [here][NEW].
+
+Original README:
+
 # Shadow Artifacts
 
 Shadow Artifacts is a lore based mod for Minecraft. It's currently
@@ -23,5 +28,6 @@ If you do know how to code, you can fork the repository and make a pull
 request. If it's good enough, it might get added into the main repository, and
 the mod.
 
-[REL]: https://github.com/williamistGitHub/shadow-artifacts/releases
-[ISU]: https://github.com/williamistGitHub/shadow-artifacts/issues/new/choose
+[REL]: https://github.com/williamistGitHub/shadow-artifacts-old/releases
+[ISU]: https://github.com/williamistGitHub/shadow-artifacts-old/issues/new/choose
+[NEW]: https://github.com/williamistGitHub/shadow-artifacts/
